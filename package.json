@@ -24,6 +24,7 @@
     "cors": "^2.8.6",
     "dotenv": "^17.4.2",
     "express": "^5.2.1",
-    "http": "^0.0.1-security"
+    "http": "^0.0.1-security",
+    "tsx": "^4.21.0"
   }
 }
